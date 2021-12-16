@@ -1,0 +1,168 @@
+img {
+    max-width: 100%;
+  }
+  
+  nav {
+    background-color: #8e192d;
+    margin-top: -55px;
+  }
+  nav a {
+    color: #f49d6e;
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 2.5em;
+  }
+  nav ul {
+    display: flex;
+    height: 3.8em;
+  }
+  
+  li {
+    padding-left: 180px;
+    list-style-type: none;
+  }
+  
+  nav a:link {
+    background-color: #8e192d;
+    color: #f49d6e;
+  }
+  nav a:hover {
+    background-color: #f49d6e;
+    color: #8e192d;
+  }
+  nav a:active {
+    background-color: #f49d6e;
+    color: #8e192d;
+  }
+  
+  .logo-box {
+    margin-top: 0px;
+    height: 40px;
+  }
+  .logo-box img {
+    position: relative;
+    border-style: solid;
+    border-color: #161649;
+  }
+  
+  #content {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  .name {
+    background-color: #d17a4b;
+    color: #161649;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 4em;
+    text-align: center;
+    margin-top: -20px;
+  }
+  
+  #top-section, #middle-section {
+    display: flex;
+    text-align: left;
+    padding: 1.1em;
+    margin-top: -5px;
+  }
+  #top-section {
+    background-color: #f5d6ba;
+  }
+  
+  #middle-section {
+    background-color: #f4b390;
+  }
+  
+  #bottom-section {
+    background-color: #f49d6e;
+    text-align: center;
+    padding: 1em;
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+  
+  .leftColomn, .rightColomn {
+    width: 45%;
+    padding: 1em;
+    align-items: center;
+    margin: 1em;
+  }
+  
+  #top, #middle, #bottom {
+    padding: 0.5em;
+    margin-top: -5px;
+  }
+  #top {
+    background-color: #f5d6ba;
+  }
+  
+  #middle {
+    background-color: #f4b390;
+  }
+  
+  #bottom {
+    background-color: #f49d6e;
+  }
+  
+  
+  .rivers {
+    display: flex;
+    flex-flow: row, wrap;
+    
+  }
+  .left, .middle, .right {
+    width: 30%;
+    padding: 1em;
+    align-items: center;
+    margin: 1em;
+    text-align: center;
+  }
+  
+  .paragraf h2 {
+    text-align: left;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #161649;
+    font-family: 'Caveat Brush', cursive;
+    margin-bottom: -10px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  ul {
+    line-height: 2em;
+  }
+  
+  img {
+    margin: auto;
+    max-width: 100%;
+  }
+  
+  .paragraf {
+    color: #161649;
+    font-family: 'Architects Daughter', cursive;
+    padding: 0 1.5em;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  
+  footer {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #face {
+    margin-left: 350px;
+  }
+  #inst {
+    margin-left: 20px;
+  }
+  #pin {
+    margin-left: 20px;
+  }
